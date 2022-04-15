@@ -28,10 +28,10 @@ once you save this project and commit on terminal, but it isn't *live* on gitbut
 `-b 4096` - strength of encryption
 
 ## git push
-`git push origin master`
-`origin` - an option set for us. basically means, the location of our git repository
-`master` - the branch that we wanna push to
------
+`git push origin master` <br>
+`origin` - an option set for us. basically means, the location of our git repository <br>
+`master` - the branch that we wanna push to<br>
+
 
 1. `git add README.md`
 2. `git commit -m "updated readme" -m "something somthing"`
