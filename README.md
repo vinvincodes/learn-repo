@@ -31,8 +31,10 @@ once you save this project and commit on terminal, but it isn't *live* on gitbut
 `git push origin master`
 `origin` - an option set for us. basically means, the location of our git repository
 `master` - the branch that we wanna push to
+-----
 
-
-
+1. `git add README.md`
+2. `git commit -m "updated readme" -m "something somthing"`
+3. 
 
 
